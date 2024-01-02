@@ -1,0 +1,47 @@
+.hr {
+    border-top: 1px solid black;
+  }
+
+  .hr2 {
+    border-top: 1px dashed red;
+}
+
+.main-h1 {
+    text-align: center;
+}
+
+.img1 {
+    width: 50%;
+   
+}
+.main-h2 {
+    text-align: center;
+}
+
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+  }
+
+.dd-1 {
+    width: 70%;
+    padding-left: 98px;
+}
+
+
+
+dt {
+color: rgb(12, 158, 102);
+}
+
+
+
+
+
+
